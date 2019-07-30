@@ -2,7 +2,7 @@
 
 Here's a Calculator i made using python and tkinter. I made one complete function instead of multiple functions for the different 
 calculator buttons, the main reason beeing that I thought it would be easier for a designer to design around it, since they don't
-need to rememeber what the different functions names (Even though it probably would only be 3 functions total...). I've also not included 
+need to rememeber the different functions names (Even though it probably would only be 3 functions total...). I've also not included 
 a square root function since having another button in the GUI won't look that great for the way I've designed it. When I made the 
 GUI I used the tkinter module. I've seen a trend in using dark mode GUI's on different websites and software, so I wanted to design a
 Dark Mode Calculator. Feel free to use my Calculator function to design your own calculator. 
